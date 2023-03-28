@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SliderBinding.exe", "SliderBinding.exe\SliderBinding.exe.csproj", "{8AD6A986-B358-4287-9A29-4E37CBA283BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AD6A986-B358-4287-9A29-4E37CBA283BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD6A986-B358-4287-9A29-4E37CBA283BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD6A986-B358-4287-9A29-4E37CBA283BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD6A986-B358-4287-9A29-4E37CBA283BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5205A9A-ABA8-4997-B989-13575AA2674F}
+	EndGlobalSection
+EndGlobal
